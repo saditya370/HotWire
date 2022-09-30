@@ -14,4 +14,10 @@ Strada:- Coming Soon
 Now Let's take a detailed look at each of them .
 
 
+1.Turbo :- It Includes mainly three part 
+  
+  (a):- Turbo Drive :-All clicks on links and form submissions are now AJAX             requests, which speeds up our applications.
+  
+
+
 
